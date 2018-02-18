@@ -1,0 +1,4 @@
+images
+*.json
+*.cfg
+__pycache__
